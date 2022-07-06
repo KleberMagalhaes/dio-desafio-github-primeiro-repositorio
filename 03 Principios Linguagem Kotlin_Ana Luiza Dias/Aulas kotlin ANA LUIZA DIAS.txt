@@ -1,0 +1,37 @@
+Aulas kotlin ANA LUIZA DIAS
+
+Onde começãr?
+O que é kotlin e onde é usado.
+Fundamentos Basicos, está em mais de 24mil modelos de dispositivos, carros, geladieras, telefones e etc.
+
+Desenvolvimento Android:
+hiblido x nativo
+java, kotlin, dart, javascript
+documentação
+kotlin first;
+
+Página: developer.android.com / é uma pagina de documentações relacionadas a programação.
+
+O que é kotlin?
+Linguagem de multiplataforma, orientada a objetos e funcional;
+É gratuito e de código aberto;
+Linguagem simples não tem ponto ou virgula, não possui operador ternário tradicional;
+
+kotlin é interoperavel, ele pode ser utilizado junto ao java sem problemas.
+No kotlin é praticamente desnecessário utilizar "enter exception" (entrar exceção), porque ele facilita o 
+salvamento, mesmo que não atribuamos um valor para uma variavel que estejamos criando, podemos salvar e 
+depois pesquisar e atribuir um valor, é mais ou menos essa a ideia, não é exatamente isso, é um conceito.
+
+kotlin foi aberto ao publico em 2016 e de lá pra cá só cresceu, 
+e em 2019 foi o ano que ele se tornou a linguagem oficial do android.
+
+Está em desenvolvimento desde 2011, possui várias vantagens entre elas o null check e type safe;
+Ela é 100% interoperavel com o Java;
+Também desenvolve frontend ebackend com kotlin/JS e Multiplataforma com o KMM;
+
+Recomendações da Especialista 
+" Observar sempre oque as outras plataformas estão desenvolvendo, tudo pode mudar com o tempo"
+Portanto é melhor buscar aprender sempre e desenvolver novos conhecimentos!
+
+
+

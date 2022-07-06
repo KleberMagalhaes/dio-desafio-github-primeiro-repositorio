@@ -1,0 +1,21 @@
+Repositorio criado para o desafio de projeto DIO
+
+
+dio-desafio-github-primeiro-repositorio-01
+
+# dio-desafio-github-primeiro-repositorio
+Desafio de Projeto sobre Git/GitHub
+
+publico
+
+adicionar um arquivo readme
+
+criar repositório em comitar
+
+Adicionar titulo relevante, logo após uma breve descrição, instalar links uteis sobre o tema em questão.
+Posso visualizar as alterações imediatamente em visualizar, se estiver de acordo, confirmar alterações.
+Neste caso ainda estamos online, para trabalhar no projeto apenas na minha maquina e depois enviar, 
+clico em codigo, escolho as opções,
+copio o codigo, clico na pasta previamente criada (DESAFIO PROJETO GITGITHUB ALFA) clico botão direito, git bash here, 
+digito git clone e colo (paste) o link copiado no codigo e digito enter,
+se for a primeira vez abrindo o git bash na 
